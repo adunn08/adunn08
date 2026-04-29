@@ -26,7 +26,7 @@ SEO and growth background. Based in Colorado.
 
 - 🌐 Website: [rampstack.co](https://rampstack.co)
 - 💼 LinkedIn: [/in/andydunn8](https://linkedin.com/in/andydunn8)
-- 🐦 X: [@andydunn88](https://x.com/andydunn88)
+- 🐦 X: [@andydunn08](https://x.com/andydunn08)
 
 ---
 
