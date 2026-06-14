@@ -8,9 +8,9 @@ SEO and growth background. Based in Colorado.
 
 ### Current focus
 
-**[Claude Skills catalog](https://github.com/rampstackco/claude-skills).** A library of 102 stack-agnostic Claude Skills across 16 categories, covering the full website lifecycle: research, brand, design, content, SEO, dev, ops, and growth. It includes an Ahrefs MCP-powered SEO audit suite, a creative-direction layer that picks a distinct brand direction per project, and a meta-skill that teaches you to write your own.
+**[Claude Skills catalog](https://github.com/rampstackco/claude-skills).** A library of 100+ stack-agnostic Claude Skills across 16 categories, covering the full website lifecycle: research, brand, design, content, SEO, dev, ops, and growth. It includes an Ahrefs MCP-powered SEO audit suite, a creative-direction layer that picks a distinct brand direction per project, and a meta-skill that teaches you to write your own.
 
-> 102 skills · 16 categories · v1.2.0 · MIT licensed · CI-validated
+> 100+ skills · 16 categories · v1.2.0 · MIT licensed · CI-validated
 
 **[Install as Claude Code plugins](https://github.com/rampstackco/plugins).** The catalog ships as installable plugins through the Claude Code marketplace:
 
