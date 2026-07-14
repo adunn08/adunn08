@@ -1,6 +1,6 @@
 ### Hi, I'm Andy 👋
 
-Building [RampStack](https://rampstack.co). Open-source skills, tools, and workflows for Claude.
+I'm the creator and maintainer of [RampStack](https://rampstack.co). Open-source skills, tools, and workflows for Claude.
 
 SEO and growth background. Based in Colorado.
 
