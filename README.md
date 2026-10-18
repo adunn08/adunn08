@@ -40,3 +40,17 @@ SEO and growth background. Based in Colorado.
 ---
 
 <sub>Shipping at the intersection of Claude Skills, MCP, and SEO. Watch [rampstackco](https://github.com/rampstackco) for new releases.</sub>
+
+---
+
+### Contributing
+
+Issues and PRs are welcome on [claude-skills](https://github.com/rampstackco/claude-skills) and the [theme repos](https://github.com/rampstackco?q=theme).
+
+<!--
+Outside repos, one line per merged PR. Name the repo, then say exactly what you fixed.
+Uncomment once the first PR merges.
+
+Merged elsewhere:
+- **[owner/repo](https://github.com/owner/repo)** - What the PR fixed, in one line.
+-->
